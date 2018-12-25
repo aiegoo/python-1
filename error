@@ -1,0 +1,2 @@
+parameters += "&YM=" + yyyymm   
+parameters += "&NAT_CD=" + nat_cd
